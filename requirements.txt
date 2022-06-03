@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+pyyaml
+pandas
+numpy
+matplotlib
+xlsxwriter

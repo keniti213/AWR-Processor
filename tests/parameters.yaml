@@ -1,0 +1,7 @@
+default:
+    ENVIRONMENT: 'PROD'
+    DEFAULT_PERCENTILE: 0.95
+    DEFAULT_ANNUAL_GROWTH: 10
+    REDO_LOG_RATE: 0.1
+    output_excel_file: 'Offline-Workbook-source'
+    output_summary_file: 'resumo-databases'
